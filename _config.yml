@@ -10,7 +10,7 @@ title:       Wura Development Blog
 email:       ''
 description: ''
 baseurl:     '' # The subpath of your site, e.g. /blog
-url:         'https://type-jekyll.aspirethemes.com/' # The base hostname & protocol for your site
+url:         'http://dev.wura.io/' # The base hostname & protocol for your site
 twitter:     ''
 github:      ''
 instagram:   ''
