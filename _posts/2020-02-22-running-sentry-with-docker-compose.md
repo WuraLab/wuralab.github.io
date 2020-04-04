@@ -1,5 +1,6 @@
 ---
 layout: post
+author: 'Tunde Oladipupo'
 tags: [sentry, build, blog]
 image: '/images/posts/2020-02-23-sentry-ui.png'
 ---
