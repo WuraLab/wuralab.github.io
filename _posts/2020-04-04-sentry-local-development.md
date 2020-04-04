@@ -36,7 +36,8 @@ tags: [sentry, development, blog]
 
 + Once that line has been removed, build sentry-onprem docker image.
 
-  ```bash
+  ```bash 
+  
   $cd onpremise/
   $SENTRY_IMAGE=sentry-local:latest  ./install.sh
   ...
@@ -55,6 +56,7 @@ tags: [sentry, development, blog]
   You're all done! Run the following command to get Sentry running:
   
     docker-compose up -d
+    
   ```
 
   
