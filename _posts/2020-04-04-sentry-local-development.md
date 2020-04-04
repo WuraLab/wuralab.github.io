@@ -51,12 +51,9 @@ tags: [sentry, development, blog]
   Creating missing DSNs
   Correcting Group.num_comments counter
   Cleaning up...
-  
-  ----------------
-  You're all done! Run the following command to get Sentry running:
+    You're all done! Run the following command to get Sentry running:
   
     docker-compose up -d
-    
   ```
 
   
